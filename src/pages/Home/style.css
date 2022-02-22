@@ -1,0 +1,11 @@
+.home {
+  text-align: left;
+  padding: 20px;
+}
+.home button {
+  display: block;
+}
+.black {
+  background-color: #000 !important;
+  color: #fff;
+}
